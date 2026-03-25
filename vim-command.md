@@ -1,6 +1,6 @@
 # Vim & Neovim Workshop: Master Cheat Sheet
 
-## 1. Survival Kit (The "Don't Panic" Buttons)
+## 1. Survival Kit
 | Key | Name | Function |
 | :--- | :--- | :--- |
 | **`i`** | Insert | Enter **Insert Mode** (start typing like normal). |
